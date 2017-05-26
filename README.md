@@ -25,7 +25,7 @@ Dont support config manager-address forbidden-ip workers;
 
 Dont support pid log verbose-mode;
 
-Done support graceful with supervisor;
+Dont support graceful with supervisor;
 
 Dont support kcptun finalspeed;
 
