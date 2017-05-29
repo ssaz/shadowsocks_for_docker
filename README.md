@@ -11,7 +11,7 @@ Default rand password;
 
 Options -p -k -m for service;
 
-Option value -p=1949 -k=${rand and output in docker log} -m=aes-256-cfb
+Option value -p=1949 -k=${rand and output in docker log} -m=aes-256-cfb;
 
 Option Method are aes-256-cfb aes-256-ctr camellia-256-cfb and 128/192 size;
 
